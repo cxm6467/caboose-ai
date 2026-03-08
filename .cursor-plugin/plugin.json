@@ -1,0 +1,9 @@
+{
+  "name": "caboose-ai",
+  "version": "0.1.0",
+  "description": "Caboose AI assistant plugin with custom rules and skills",
+  "author": "caboose",
+  "repository": "https://github.com/cxm6467/caboose-ai",
+  "rules": [],
+  "skills": []
+}
